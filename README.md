@@ -1,2 +1,2 @@
 # DataScienceQMUL
-This repository is where some of my assignments completed during my graduate studies in Data Science at QMUL will be published. Ignore the Netflix search engine final file, it was my team and I's first attempt and we made improvements, which I unforunately lost as a file.
+This repository is where some of my assignments completed during my graduate studies in Data Science at QMUL will be published. Some of the code is a first attempt and may contain errors but it is by no means the final product.
